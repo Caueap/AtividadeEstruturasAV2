@@ -30,5 +30,9 @@ public class Explicacao {
     Outro exemplo seria o da intercomunicação entre programas em um sistema operacional, onde os dados
     passados de um programa a outro podem se estruturar em uma fila.
 
+    -----------------------------------------------------------------------------------------------------
+    - Árvores: árvores são muito úteis para modelar sistemas que possuam uma hierarquia. Alguns exemplos:
+    os diretórios em um sistema operacional como Windows ou Linux; games, onde uma inteligência artificial
+    tem que "decidir" o que fazer baseado em um dado input.
      */
 }
