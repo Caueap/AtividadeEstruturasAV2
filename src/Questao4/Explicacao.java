@@ -1,4 +1,6 @@
-public class Questao4 {
+package Questao4;
+
+public class Explicacao {
 
     /*
     a) Saída em ordem: 4, 7, 16, 18, 20, 37, 38, 43
